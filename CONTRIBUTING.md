@@ -226,10 +226,3 @@ If a PR goes stale, maintainers may close it after a polite ping; you can always
 
 If your question is missing, open an issue labeled `question` so we can expand this table.
 
-## 8. Recognition & Next Steps
-
-- We thank contributors in release notes and workshop updates. Add yourself to a future `AUTHORS.md` once it exists.
-- Join demo or planning calls to showcase your work and help direct future efforts.
-- Frequent contributors can request additional permissions (triage, maintainer) to keep things moving.
-
-Your enthusiasm keeps Valkyrion moving forward—thanks for lending your time and curiosity! 🚀
